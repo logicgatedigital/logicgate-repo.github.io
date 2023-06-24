@@ -213,7 +213,7 @@
             arrows: false,
             dots: true,
             infinite: true,
-            slidesToShow: 6,
+            slidesToShow: 2,
             slidesToScroll: 2,
             //autoplay: true,
             pauseOnFocus: false,
