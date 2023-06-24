@@ -1,5 +1,5 @@
 /* ===================================================================
- * Glint - Main JS
+ * Logic - Main JS
  *
  * ------------------------------------------------------------------- */
 
@@ -9,7 +9,7 @@
     
     var cfg = {
         scrollDuration : 800, // smoothscroll duration
-        mailChimpURL   : 'https://facebook.us8.list-manage.com/subscribe/post?u=cdb7b577e41181934ed6a6a44&amp;id=e6957d85dc'   // mailchimp url
+        mailChimpURL   : 'https://logicgatedigital.us21.list-manage.com/subscribe/post?u=c7dcf014393ba62739e9d9238&amp;id=474c46efe9&amp;f_id=00d658e1f0'   // mailchimp url
     },
 
     $WIN = $(window);
