@@ -9,7 +9,7 @@
     
     var cfg = {
         scrollDuration : 800, // smoothscroll duration
-        mailChimpURL   : 'https://logicgatedigital.us21.list-manage.com/subscribe/post?u=c7dcf014393ba62739e9d9238&amp;id=474c46efe9&amp;f_id=00d658e1f0'   // mailchimp url
+        mailChimpURL   : 'https://us21.list-manage.com/contact-form?u=c7dcf014393ba62739e9d9238&form_id=8cb0fbc31b739cbdd9927ce3b52b5e15'   // mailchimp url
     },
 
     $WIN = $(window);
