@@ -3112,6 +3112,8 @@ html.no-csstransitions .home-content__main {
 
 .contact-secondary .contact-info {
     position: relative;
+    width: 60%;
+    margin: 0px auto;
 }
 
 .contact-secondary .cinfo {
